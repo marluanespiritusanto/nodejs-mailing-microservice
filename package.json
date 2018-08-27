@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.1.4"
+  },
+  "dependencies": {
+    "pm2": "^3.0.4"
+  }
+}
